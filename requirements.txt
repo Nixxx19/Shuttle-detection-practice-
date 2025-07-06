@@ -1,5 +1,5 @@
-###🧾 Requirements
+### 🧾 Requirements
 
-- *Python 3.6+*
-- *opencv-python*
-- *numpy*
+- _Python 3.6 or higher_
+- _opencv-python_
+- _numpy_
