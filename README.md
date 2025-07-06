@@ -1,3 +1,3 @@
-# 🏸 Shuttlecock Detection using OpenCV
+# 🏸 Shuttlecock Detection 
 
-A real-time shuttlecock detection system using OpenCV and Python.  
+*A real-time shuttlecock detection system using OpenCV and Python.*
